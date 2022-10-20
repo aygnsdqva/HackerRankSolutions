@@ -1,0 +1,16 @@
+Sample Input
+
+STDIN           Function
+-----           --------
+6               arr[] size n = 6
+-4 3 -9 0 4 1   arr = [-4, 3, -9, 0, 4, 1]
+Sample Output
+
+0.500000
+0.333333
+0.166667
+
+There are 3 positive numbers,  2 negative numbers, and 1 zero in the array.
+positiv numbers = 3/6 = 0,500000
+neqative numbers = 2/6= 0,333333
+zero numbers = 1/6=0,16667

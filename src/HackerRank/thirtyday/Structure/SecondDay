@@ -1,0 +1,13 @@
+Sample Input
+
+12.00
+20
+8
+Sample Output
+
+15
+
+tip= (12/100)*20=2,4;
+tax=(8/100)*20=0,96;
+totalCost= 12+ 2,4+0,96=15,36
+round(totalCost)=15
